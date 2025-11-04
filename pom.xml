@@ -75,7 +75,6 @@
 		<module>spring-ai-alibaba-observability-example</module>
 		<module>spring-ai-alibaba-more-platform-and-model-example</module>
 		<module>spring-ai-alibaba-nl2sql-example</module>
-		<module>spring-ai-alibaba-studio-example</module>
 		<module>spring-ai-alibaba-graph-example</module>
 		<module>spring-ai-alibaba-bailian-example</module>
         <module>spring-ai-alibaba-evaluation-example</module>
